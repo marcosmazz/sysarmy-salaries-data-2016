@@ -299,7 +299,7 @@
 "34 - 36","GBA","5 - 7","4 - 5","Marketing","Full-Time",1,25714.2857142857,"M",0
 "34 - 36","CABA","10+","Menos de un año","SysAdmin / DevOps","Full-Time",3,28571.4285714286,"M",1
 "24 - 26","Santa Fe","Menos de un año","Menos de un año","Biotecnologo","Full-Time",3,10000,"M",0
-"27 - 30","Tierra del Fuego","3 - 5","4 - 5","DBA, Developer, Networking, SysAdmin","Full-Time",2,32857.1428571429,"M",0
+"27 - 30","Tierra del Fuego","3 - 5","4 - 5","DBA/ Developer/ Networking/ SysAdmin","Full-Time",2,32857.1428571429,"M",0
 "21 - 23","CABA","3 - 5","1 - 2","Informatica","Full-Time",3,17142.8571428571,"M",0
 "27 - 30","CABA","3 - 5","1 - 2","SysAdmin / DevOps","Full-Time",2,20714.2857142857,"M",0
 "24 - 26","CABA","3 - 5","2 - 3","HelpDesk","Full-Time",4,20000,"M",0
@@ -625,7 +625,7 @@
 "27 - 30","CABA","3 - 5","Menos de un año","HelpDesk","Full-Time",2,29000,"M",0
 "37 - 40","Santa Fe","8 - 10","7 - 8","Developer","Full-Time",3,32000,"M",0
 "31 - 33","GBA","10+","7 - 8","HelpDesk","Freelance",3,28571.4285714286,"M",0
-"37 - 40","Santa Fe","10+","9 - 10","HelpDesk, NetWorking, SysAdmin, etc","Full-Time",4,32857.1428571429,"M",0
+"37 - 40","Santa Fe","10+","9 - 10","HelpDesk/ NetWorking/ SysAdmin/ etc","Full-Time",4,32857.1428571429,"M",0
 "27 - 30","CABA","5 - 7","5 - 6","Developer","Full-Time",3,32857.1428571429,"M",0
 "24 - 26","Salta","Menos de un año","Menos de un año","SysAdmin / DevOps","Full-Time",3,8000,"M",0
 "24 - 26","CABA","5 - 7","Menos de un año","Developer","Full-Time",3,21000,"M",1
@@ -1053,7 +1053,7 @@
 "27 - 30","CABA","5 - 7","3 - 4","operario textil","Full-Time",3,17142.8571428571,"M",0
 "31 - 33","Santa Fe","5 - 7","1 - 2","Developer","Full-Time",4,23571.4285714286,"M",0
 "24 - 26","Cordoba","3 - 5","Menos de un año","Developer","Full-Time",3,22857.1428571429,"M",0
-"34 - 36","CABA","10+","9 - 10","Networking, soporte","Full-Time",2,21428.5714285714,"M",0
+"34 - 36","CABA","10+","9 - 10","Networking/ soporte","Full-Time",2,21428.5714285714,"M",0
 "31 - 33","GBA","3 - 5","2 - 3","HelpDesk","Full-Time",3,21428.5714285714,"M",0
 "34 - 36","GBA","5 - 7","1 - 2","Designer","Part-Time",3,11428.5714285714,"M",0
 "24 - 26","CABA","1 - 2","Menos de un año","Developer","Part-Time",2,12000,"M",0
@@ -1219,7 +1219,7 @@
 "24 - 26","Entre Rios","3 - 5","4 - 5","administrativo","Part-Time",2,12000,"M",0
 "31 - 33","CABA","8 - 10","3 - 4","Developer","Full-Time",3,26400,"M",0
 "18 - 20","CABA","Menos de un año","Menos de un año","Developer","Part-Time",2,9485.71428571429,"M",0
-"27 - 30","CABA","8 - 10","Menos de un año","Help desk, NetWorking, Storage / BackUp","Full-Time",3,17142.8571428571,"M",0
+"27 - 30","CABA","8 - 10","Menos de un año","Help desk/ NetWorking/ Storage / BackUp","Full-Time",3,17142.8571428571,"M",0
 "27 - 30","GBA","5 - 7","2 - 3","Arquitecto","Full-Time",4,42857.1428571429,"M",0
 "27 - 30","GBA","5 - 7","Menos de un año","Reparacion","Full-Time",3,17142.8571428571,"F",0
 "24 - 26","CABA","5 - 7","5 - 6","Developer","Full-Time",2,28280,"M",1
@@ -1582,7 +1582,7 @@
 "34 - 36","CABA","10+","4 - 5","SysAdmin / DevOps","Full-Time",5,28000,"M",0
 "31 - 33","Entre Rios","3 - 5","4 - 5","SysAdmin / DevOps","Full-Time",3,18571.4285714286,"F",0
 "27 - 30","CABA","10+","3 - 4","SysAdmin / DevOps","Full-Time",5,28000,"M",0
-"21 - 23","CABA","1 - 2","Menos de un año","Integrador Tecnico (Un poco analisis, un poco desarrollo, un poco todo)","Full-Time",3,19564.2857142857,"M",0
+"21 - 23","CABA","1 - 2","Menos de un año","Integrador Tecnico (Un poco analisis/ un poco desarrollo/ un poco todo)","Full-Time",3,19564.2857142857,"M",0
 "37 - 40","CABA","10+","10+","Redes","Full-Time",2,15000,"M",0
 "27 - 30","CABA","5 - 7","3 - 4","SysAdmin / DevOps","Full-Time",4,40000,"M",0
 "34 - 36","GBA","5 - 7","4 - 5","Developer","Full-Time",4,35714.2857142857,"M",0
@@ -1811,7 +1811,7 @@
 "24 - 26","CABA","5 - 7","1 - 2","Developer","Full-Time",3,21428.5714285714,"M",0
 "21 - 23","CABA","Menos de un año","Menos de un año","Developer","Part-Time",1,12142.8571428571,"F",0
 "24 - 26","GBA","5 - 7","5 - 6","SysAdmin / DevOps","Full-Time",4,23571.4285714286,"M",0
-"24 - 26","GBA","5 - 7","2 - 3","Help desk, infraestructura, networking a la vez.","Full-Time",1,25714.2857142857,"M",0
+"24 - 26","GBA","5 - 7","2 - 3","Help desk/ infraestructura/ networking a la vez.","Full-Time",1,25714.2857142857,"M",0
 "24 - 26","CABA","3 - 5","Menos de un año","Developer","Full-Time",4,22000,"M",1
 "37 - 40","CABA","10+","1 - 2","PM","Full-Time",2,42857.1428571429,"M",0
 "46 - 49","CABA","10+","2 - 3","Designer","Full-Time",2,30500,"F",0
@@ -2094,7 +2094,7 @@
 "31 - 33","CABA","5 - 7","3 - 4","Developer","Full-Time",5,31428.5714285714,"M",0
 "27 - 30","CABA","8 - 10","6 - 7","SysAdmin / DevOps","Full-Time",3,32857.1428571429,"M",0
 "31 - 33","CABA","5 - 7","5 - 6","Developer","Full-Time",3,25371.4285714286,"M",0
-"41 - 45","CABA","10+","8 - 9","Admin infraestructura, virtualizacion, backups, sysadmin ","Full-Time",3,32857.1428571429,"M",0
+"41 - 45","CABA","10+","8 - 9","Admin infraestructura/ virtualizacion/ backups/ sysadmin ","Full-Time",3,32857.1428571429,"M",0
 "27 - 30","CABA","1 - 2","Menos de un año","Seguridad informática","Full-Time",3,24000,"M",0
 "27 - 30","GBA","3 - 5","3 - 4","HelpDesk","Full-Time",4,18060,"M",0
 "27 - 30","GBA","3 - 5","1 - 2","SysAdmin / DevOps","Full-Time",3,18857.1428571429,"M",1
@@ -3215,7 +3215,7 @@
 "27 - 30","GBA","5 - 7","3 - 4","Networking","Full-Time",3,25714.2857142857,"M",0
 "21 - 23","CABA","1 - 2","1 - 2","QA / Tester","Full-Time",2,12500,"F",0
 "31 - 33","CABA","Menos de un año","Menos de un año","Jefe de servicio  (mda y sop)","Full-Time",1,16400,"F",0
-"31 - 33","Santa Fe","8 - 10","2 - 3","Analista Funcional, Developer ,PMO, Analista BI, Admin SAP","Full-Time",1,27142.8571428571,"M",0
+"31 - 33","Santa Fe","8 - 10","2 - 3","Analista Funcional/ Developer /PMO, Analista BI/ Admin SAP","Full-Time",1,27142.8571428571,"M",0
 "34 - 36","CABA","8 - 10","8 - 9","Designer","Full-Time",3,21428.5714285714,"M",0
 "31 - 33","GBA","1 - 2","1 - 2","QA / Tester","Freelance",2,12000,"M",0
 "18 - 20","GBA","1 - 2","Menos de un año","Networking","Full-Time",5,14285.7142857143,"M",0
@@ -3329,7 +3329,7 @@
 "21 - 23","Corrientes","Menos de un año","1 - 2","Developer","Full-Time",3,21428.5714285714,"M",0
 "31 - 33","CABA","8 - 10","Menos de un año","DBA","Full-Time",5,32857.1428571429,"M",1
 "31 - 33","Santiago del Estero","3 - 5","4 - 5","Infosec","Full-Time",3,27142.8571428571,"M",0
-"24 - 26","CABA","3 - 5","1 - 2","soporte tecnico, adm de dominio y adm de plataforma google","Full-Time",3,17142.8571428571,"M",0
+"24 - 26","CABA","3 - 5","1 - 2","soporte tecnico/ adm de dominio y adm de plataforma google","Full-Time",3,17142.8571428571,"M",0
 "31 - 33","Cordoba","1 - 2","1 - 2","Developer","Full-Time",4,13000,"M",1
 "31 - 33","CABA","8 - 10","8 - 9","Designer","Full-Time",2,30000,"M",0
 "31 - 33","Santa Fe","8 - 10","5 - 6","SysAdmin / DevOps","Full-Time",2,21428.5714285714,"M",0
@@ -3691,7 +3691,7 @@
 "27 - 30","GBA","5 - 7","2 - 3","Infosec","Full-Time",2,12000,"M",0
 "41 - 45","CABA","10+","10+","Networking","Full-Time",3,31428.5714285714,"M",0
 "24 - 26","CABA","3 - 5","2 - 3","Developer","Full-Time",1,21428.5714285714,"M",0
-"37 - 40","GBA","10+","4 - 5","Developer, sysadmin, networking","Freelance",2,30000,"M",0
+"37 - 40","GBA","10+","4 - 5","Developer/ sysadmin/ networking","Freelance",2,30000,"M",0
 "27 - 30","GBA","8 - 10","4 - 5","Designer","Freelance",3,21428.5714285714,"M",0
 "27 - 30","GBA","3 - 5","1 - 2","vendedor","Full-Time",3,12428.5714285714,"M",0
 "21 - 23","CABA","1 - 2","1 - 2","Developer","Part-Time",3,14285.7142857143,"M",0
